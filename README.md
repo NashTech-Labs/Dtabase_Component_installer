@@ -1,0 +1,2 @@
+# Dtabase_Component_installer
+The shell script sets environment variables for a database component installer and runs it using a Java virtual machine. It checks whether the required environment variables are set, prints an error message if any of them is missing, and exits with a non-zero status code. Finally, it captures the exit status of the Java program and exits with the same status code.
